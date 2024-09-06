@@ -7,16 +7,19 @@
            {
               "id":1,
               "title":"TODO 1",
+              "done": true,
               "desc":"Todo description 1"
            },
            {
               "id":2,
               "title":"TODO 2",
+              "done": true,
               "desc":"Todo description 2"
            },
            {
               "id":3,
               "title":"TODO 3",
+              "done": false,
               "desc":"Todo description 3"
            }
         ]
